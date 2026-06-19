@@ -1,0 +1,25 @@
+# Credentials and secrets — NEVER commit these
+credentials.json
+token.json
+.env
+*.key
+*.pem
+
+# Browser profiles — contain session cookies and auth state
+profiles/
+
+# Debug output — screenshots, HTML snapshots, logs
+debug/
+logs/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
