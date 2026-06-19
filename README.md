@@ -193,7 +193,11 @@ After exhausting retries, rows are written with `Manual Check Required — [spec
 
 ## Screenshots
 
-> Screenshots of the Google Sheets output, summary tab, and Task Scheduler configuration can be added here.
+### Output Tab
+![Output Tab](docs/screenshots/output.png)
+
+### Summary Tab
+![Summary Tab](docs/screenshots/summary.png)
 
 ---
 
